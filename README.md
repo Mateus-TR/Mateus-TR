@@ -1,13 +1,12 @@
-### # Oii 👋, Eu sou o Mateus Trajano, estudante de programação e tecnologia
+### Oii 👋, Eu sou o Mateus Trajano, estudante de programação e tecnologia
 
 - Desenvolvedor Front-End
 - Programador Back-End
-
   
 # 🖥️ Tecnologias
 
 - HTML e CSS
-- - C- C++
+- C- C++
 
 <!--
 **Mateus-TR/Mateus-TR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
